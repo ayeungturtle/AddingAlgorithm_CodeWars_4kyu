@@ -1,4 +1,5 @@
 # Big Number Adding Algorithm (CodeWars 4kyu)
+## To view code, open the folder and then open "Program.cs."
 ## ALGORITHMS   -   STRINGS    -   ARITHMETIC  -    BIG NUMBERS 
 ## I accomplished this by programming the algorithm to be similar to the standard paper/pencil long addition algorithm.
 
